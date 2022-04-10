@@ -1,4 +1,7 @@
-# node-programming
+# Node.js Learnings
 
-run 'npm install' and 
-run the project files one by one typing 'node <fileName.js>'
+###### (01) run 'npm install'
+
+###### (02) run the project files one by one 'node <fileName.js>'
+
+![node](./assets/node.png)
